@@ -1,0 +1,1091 @@
+Zaman,Dosya,Kural,Icerik
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:18.780868-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:18.780868-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:21.660167-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/systemctl enable rsyslog
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:21.660167-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/systemctl enable rsyslog
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:21.662177-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:21.662177-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:21.933938-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:21.933938-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:21.974409-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/systemctl start rsyslog
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:21.974409-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/systemctl start rsyslog
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:21.976338-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:21.976338-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:21:21.994521-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:21:21.994521-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:22:11.459780-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:22:11.459780-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:22:11.461187-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:22:11.461187-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:22:12.570094-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:22:12.570094-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:22:38.792040-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:22:38.792040-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:22:38.792432-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:22:38.792432-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:23:26.222492-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:23:26.222492-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:23:43.813287-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:23:43.813287-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:23:43.814148-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:23:43.814148-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:23:49.839061-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:23:49.839061-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:04.193056-05:00 kali CRON[45254]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:04.212901-05:00 kali CRON[45254]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:18.907151-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:25:18.907151-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:18.907818-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:25:18.907818-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:21.111321-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:25:21.111321-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:22.927031-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:25:22.927031-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:25:22.927118-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:25:22.927118-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T05:25:40.413712-05:00 kali unix_chkpwd[45719]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T05:25:40.413712-05:00 kali unix_chkpwd[45719]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T05:25:40.414120-05:00 kali sudo: pam_unix(sudo:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/2 ruser=drk rhost=  user=drk
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:25:40.414120-05:00 kali sudo: pam_unix(sudo:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/2 ruser=drk rhost=  user=drk
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T05:27:41.820907-05:00 kali unix_chkpwd[46737]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T05:27:41.820907-05:00 kali unix_chkpwd[46737]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T05:27:43.459656-05:00 kali unix_chkpwd[46748]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T05:27:43.459656-05:00 kali unix_chkpwd[46748]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,incorrect,2026-01-31T05:27:45.557130-05:00 kali sudo:      drk : 3 incorrect password attempts ; TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=k
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T05:27:45.557130-05:00 kali sudo:      drk : 3 incorrect password attempts ; TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=k
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:27:45.557130-05:00 kali sudo:      drk : 3 incorrect password attempts ; TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=k
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:27:45.557130-05:00 kali sudo:      drk : 3 incorrect password attempts ; TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=k
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:17.043041-05:00 kali sudo:      drk : TTY=pts/4 ; PWD=/home/drk ; USER=root ; COMMAND=/usr/bin/su
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:32:17.043041-05:00 kali sudo:      drk : TTY=pts/4 ; PWD=/home/drk ; USER=root ; COMMAND=/usr/bin/su
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:17.073316-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:32:17.073316-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:17.084473-05:00 kali su[48470]: (to root) root on pts/5
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:17.085950-05:00 kali su[48470]: pam_unix(su:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:17.416689-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:32:17.416689-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:30.991069-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:32:30.991069-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:32:30.991302-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:32:30.991302-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:35:01.150861-05:00 kali CRON[49997]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:35:01.190736-05:00 kali CRON[49997]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:39:19.646274-05:00 kali CRON[50529]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:39:19.684043-05:00 kali CRON[50529]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T05:42:43.058957-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:45:01.678811-05:00 kali CRON[52379]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:45:01.705526-05:00 kali CRON[52379]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:45:59.616671-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:45:59.616671-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:46:04.591845-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:46:04.591845-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:46:04.592088-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:46:04.592088-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:46:29.277335-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:46:29.277335-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:46:50.942903-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:46:50.942903-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:46:50.943266-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:46:50.943266-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:46:53.174234-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:46:53.174234-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:47:58.044327-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:47:58.044327-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:47:58.066308-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:47:58.066308-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:47:59.340895-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:47:59.340895-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:48:00.937281-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:48:00.937281-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:48:00.938029-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:48:00.938029-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:01.534994-05:00 kali su[48470]: pam_unix(su:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:01.537713-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:01.537713-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:01.834451-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:01.834451-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:05.827676-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:05.827676-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:05.829253-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:05.829253-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:26.051250-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:26.051250-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:27.865634-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:27.865634-05:00 kali sudo:     root : TTY=pts/1 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:49:27.866933-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:49:27.866933-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:51:37.418889-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/apt install textual
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:51:37.418889-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/apt install textual
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:51:37.419758-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:51:37.419758-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:51:37.660336-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:51:37.660336-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:51:37.934343-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:51:37.934343-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:53:41.012178-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/pip install textual --break-system-packages
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:53:41.012178-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/pip install textual --break-system-packages
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:53:41.035439-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:53:41.035439-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:53:45.822442-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:53:45.822442-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:54:01.834060-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/python3 main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:54:01.834060-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/python3 main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:54:01.836954-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:54:01.836954-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:54:01.883742-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:54:01.883742-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:55:01.867293-05:00 kali CRON[57684]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:55:01.889613-05:00 kali CRON[57684]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:56:12.249243-05:00 kali sudo:      drk : TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=/usr/bin/python3 -m pip install textual --break-system-packages
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:56:12.249243-05:00 kali sudo:      drk : TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=/usr/bin/python3 -m pip install textual --break-system-packages
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:56:12.250981-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:56:12.250981-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:56:13.938306-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:56:13.938306-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:57:49.944170-05:00 kali sudo:      drk : TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:57:49.944170-05:00 kali sudo:      drk : TTY=pts/2 ; PWD=/home/drk ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:57:49.945322-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:57:49.945322-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T05:57:49.973794-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T05:57:49.973794-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:01:04.687842-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:01:04.687842-05:00 kali sudo:      drk : TTY=pts/3 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:01:04.688230-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:01:04.688230-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:01:14.432632-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:01:14.432632-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:01:14.888139-05:00 kali su[41334]: pam_unix(su:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:01:14.889974-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:01:14.889974-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:02:58.829673-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:02:58.829673-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:02:58.830189-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:02:58.830189-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:21.965915-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:21.965915-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:41.425996-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:41.425996-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:41.426864-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:41.426864-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:41.453277-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:41.453277-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:48.768149-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:48.768149-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:48.769891-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:48.769891-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:03:54.824740-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:03:54.824740-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:04:08.614177-05:00 kali sudo:      drk : TTY=pts/1 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=/usr/bin/su
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:04:08.614177-05:00 kali sudo:      drk : TTY=pts/1 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=/usr/bin/su
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:04:08.616322-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:04:08.616322-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:04:08.625558-05:00 kali su[62606]: (to root) root on pts/2
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:04:08.625980-05:00 kali su[62606]: pam_unix(su:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:05:01.950074-05:00 kali CRON[63058]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:05:01.990580-05:00 kali CRON[63058]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:06:43.157914-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:06:43.157914-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:06:43.178580-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:06:43.178580-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:06:48.634823-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:06:48.634823-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:04.229332-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:04.229332-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:04.230228-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:04.230228-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:11.474392-05:00 kali su[62606]: pam_unix(su:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:11.484409-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:11.484409-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:11.791154-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:11.791154-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:27.048847-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:27.048847-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:27.049162-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:27.049162-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:29.648922-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:29.648922-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:31.252899-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:31.252899-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:31.253380-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:31.253380-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:33.641530-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:33.641530-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:36.157970-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:36.157970-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:36.158584-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:36.158584-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:52.527706-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:52.527706-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:53.767278-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:53.767278-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:07:53.769015-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:07:53.769015-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:08:21.594788-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:08:21.594788-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:08:22.364968-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:08:22.364968-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:08:22.365553-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:08:22.365553-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:08:39.174220-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:08:39.174220-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:08:55.777850-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:08:55.777850-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:08:55.778611-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:08:55.778611-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:09:00.033187-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:09:00.033187-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:09:02.005009-05:00 kali CRON[65209]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:09:02.009536-05:00 kali CRON[65209]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:05.675193-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:05.675193-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:05.702256-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:05.702256-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:36.580507-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:36.580507-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:37.342534-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:37.342534-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:37.342942-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:37.342942-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:41.971226-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:41.971226-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:58.386870-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:58.386870-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:13:58.388938-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:13:58.388938-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:14:03.641318-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:14:03.641318-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:14:55.561076-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:14:55.561076-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:14:55.561321-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:14:55.561321-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:01.029835-05:00 kali CRON[68213]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:01.044615-05:00 kali CRON[68213]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:17.579092-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:15:17.579092-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:18.795240-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:15:18.795240-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:18.796776-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:15:18.796776-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:33.007983-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:15:33.007983-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:33.755295-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:15:33.755295-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:15:33.755875-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:15:33.755875-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:01.060928-05:00 kali CRON[69217]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:01.075304-05:00 kali CRON[69217]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:07.398962-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:17:07.398962-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:08.161248-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:17:08.161248-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:08.161826-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:17:08.161826-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:21.154207-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:17:21.154207-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:21.978648-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:17:21.978648-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:17:21.978808-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:17:21.978808-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:19:19.894427-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:19:19.894427-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:19:20.752124-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:19:20.752124-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:19:20.753385-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:19:20.753385-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:19:43.830542-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:19:43.830542-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:19:44.818333-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:19:44.818333-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:19:44.818713-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:19:44.818713-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:08.760870-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:08.760870-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:09.686914-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:09.686914-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:09.690358-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:09.690358-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:10.226368-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:10.226368-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:23.132268-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:23.132268-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:23.133295-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:23.133295-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:28.943031-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:28.943031-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:49.332049-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:49.332049-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:49.332839-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:49.332839-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:20:56.155155-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:20:56.155155-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:21:23.835784-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:21:23.835784-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:21:23.837983-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:21:23.837983-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:21:59.263900-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:21:59.263900-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:22:00.176321-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:22:00.176321-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:22:00.176473-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:22:00.176473-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:22:06.888620-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:22:06.888620-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:22:25.872093-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:22:25.872093-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:22:25.872341-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:22:25.872341-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:01.284380-05:00 kali CRON[73275]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:01.291687-05:00 kali CRON[73274]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:01.315461-05:00 kali CRON[73275]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:01.352169-05:00 kali CRON[73274]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:03.311711-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:03.311711-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:04.384997-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:04.384997-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:04.385443-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:04.385443-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:15.564989-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:15.564989-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:36.068773-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:36.068773-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:36.071099-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:36.071099-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:25:45.745532-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:25:45.745532-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T06:27:42.379213-05:00 kali unix_chkpwd[74667]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T06:27:42.379213-05:00 kali unix_chkpwd[74667]: password check failed for user (drk)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T06:27:42.380503-05:00 kali sudo: pam_unix(sudo:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/0 ruser=drk rhost=  user=drk
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:27:42.380503-05:00 kali sudo: pam_unix(sudo:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/0 ruser=drk rhost=  user=drk
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:27:45.747584-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:27:45.747584-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:27:45.748321-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:27:45.748321-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:27:45.766610-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:27:45.766610-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:27:52.225260-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:27:52.225260-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:27:52.225945-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T06:27:52.225945-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:37:30.296604-05:00 kali CRON[77616]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:37:30.407202-05:00 kali CRON[77616]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:39:01.447444-05:00 kali CRON[78462]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:39:01.458435-05:00 kali CRON[78462]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:45:01.502237-05:00 kali CRON[81428]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T06:45:01.533480-05:00 kali CRON[81428]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T08:35:44.147923-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:35:56.964397-05:00 kali CRON[82008]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:35:56.974910-05:00 kali CRON[82008]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:39:01.065296-05:00 kali CRON[83524]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:39:01.071749-05:00 kali CRON[83524]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:39:01.436640-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T08:39:01.436640-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:45:01.106874-05:00 kali CRON[86531]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:45:01.118876-05:00 kali CRON[86531]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:55:01.680982-05:00 kali CRON[90830]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T08:55:01.701800-05:00 kali CRON[90830]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:05:01.666643-05:00 kali CRON[94301]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:05:01.694737-05:00 kali CRON[94301]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:09:01.830767-05:00 kali CRON[96261]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:09:01.858692-05:00 kali CRON[96261]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T09:14:57.582257-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:15:01.662078-05:00 kali CRON[97685]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:15:01.669144-05:00 kali CRON[97685]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:16:57.952154-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:16:57.952154-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:16:57.957664-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:16:57.957664-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:17:01.687239-05:00 kali CRON[98689]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:17:01.697256-05:00 kali CRON[98689]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:17:18.848374-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:17:18.848374-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:17:51.557265-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:17:51.557265-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:17:51.558094-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:17:51.558094-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:17:58.108829-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:17:58.108829-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:18:18.744174-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:18:18.744174-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:18:18.744769-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:18:18.744769-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:18:37.386536-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:18:37.386536-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:18:38.376945-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:18:38.376945-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:18:38.378132-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:18:38.378132-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:19:17.024466-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:19:17.024466-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:19:17.730328-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:19:17.730328-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:19:17.732083-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:19:17.732083-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:19:23.574446-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:19:23.574446-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:20:24.079690-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:20:24.079690-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:20:24.107268-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:20:24.107268-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:20:28.094090-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:20:28.094090-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:20:46.336790-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:20:46.336790-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:20:46.337933-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:20:46.337933-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:22:00.951964-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:22:00.951964-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:22:02.228635-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:22:02.228635-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:22:02.229265-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:22:02.229265-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:15.924221-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:15.924221-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:16.796033-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:16.796033-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:16.796324-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:16.796324-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:24.818678-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:24.818678-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:42.625716-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:42.625716-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:42.627114-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:42.627114-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:23:52.349466-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:23:52.349466-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:24:04.010433-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:24:04.010433-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:24:04.011128-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:24:04.011128-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:24:10.310865-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:24:10.310865-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:24:20.645692-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:24:20.645692-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:24:20.646882-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:24:20.646882-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:01.740494-05:00 kali CRON[102851]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:01.750372-05:00 kali CRON[102851]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:31.255846-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:25:31.255846-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:31.262777-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:25:31.262777-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:35.399507-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:25:35.399507-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:37.307979-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:25:37.307979-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:25:37.309758-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:25:37.309758-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:26:02.943054-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:26:02.943054-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:26:17.521359-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:26:17.521359-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:26:17.522387-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:26:17.522387-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:30:51.021075-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:30:51.021075-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:32:32.428985-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:32:32.428985-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:32:32.431152-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:32:32.431152-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:32:33.041230-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:32:33.041230-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:33:51.284685-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:33:51.284685-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:33:51.286371-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:33:51.286371-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:37:45.996499-05:00 kali CRON[107257]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:37:45.996620-05:00 kali CRON[107257]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:37:46.557760-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T09:37:46.557760-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:39:01.427809-05:00 kali CRON[107949]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:39:01.442800-05:00 kali CRON[107949]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:47:51.467114-05:00 kali CRON[109299]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T09:47:51.467215-05:00 kali CRON[109299]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:18:25.145933-05:00 kali CRON[112440]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:18:25.146041-05:00 kali CRON[112440]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:18:25.146078-05:00 kali CRON[112461]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:18:25.146157-05:00 kali CRON[112461]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T10:18:28.118801-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:20:10.929180-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T10:20:10.929180-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:20:10.929831-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T10:20:10.929831-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:20:14.536464-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T10:20:14.536464-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:35:01.367281-05:00 kali CRON[115943]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:35:01.405406-05:00 kali CRON[115943]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:39:01.441802-05:00 kali CRON[117769]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:39:01.468583-05:00 kali CRON[117769]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:45:01.507863-05:00 kali CRON[120742]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:45:01.546221-05:00 kali CRON[120742]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:55:01.655230-05:00 kali CRON[125603]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T10:55:01.690290-05:00 kali CRON[125603]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T10:57:55.923771-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:08:49.570228-05:00 kali CRON[129998]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:08:49.570554-05:00 kali CRON[129998]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:09:01.463931-05:00 kali CRON[130148]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:09:01.469691-05:00 kali CRON[130148]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:15:01.674488-05:00 kali CRON[132848]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:15:01.702812-05:00 kali CRON[132848]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T11:16:08.734283-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:17:01.723978-05:00 kali CRON[133850]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:17:01.739725-05:00 kali CRON[133850]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:20:07.802528-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:20:07.802528-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:20:07.803809-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:20:07.803809-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:20:08.057785-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:20:08.057785-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:20:20.598531-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:20:20.598531-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:20:20.599815-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:20:20.599815-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:20:23.508121-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:20:23.508121-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:21:48.290927-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:21:48.290927-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:21:48.315205-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:21:48.315205-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:21:50.654361-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:21:50.654361-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:23:13.022692-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:23:13.022692-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:23:13.024619-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:23:13.024619-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:25:02.003962-05:00 kali CRON[137773]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:25:02.022790-05:00 kali CRON[137773]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:25:02.674144-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:25:02.674144-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:25:34.569657-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:25:34.569657-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:25:34.570949-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:25:34.570949-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:25:37.229785-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:25:37.229785-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:26:08.659854-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:26:08.659854-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:26:08.662450-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:26:08.662450-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:31:43.726218-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:31:43.726218-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:31:45.281228-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:31:45.281228-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:31:45.281664-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:31:45.281664-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:31:45.309090-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:31:45.309090-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:32:06.907765-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:32:06.907765-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:32:06.910709-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:32:06.910709-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:32:09.253849-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:32:09.253849-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:33:52.885887-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:33:52.885887-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:33:52.887801-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:33:52.887801-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:34:52.355611-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:34:52.355611-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:34:52.356169-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:34:52.356169-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:35:01.173386-05:00 kali CRON[142646]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:35:01.196569-05:00 kali CRON[142646]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:36:02.183434-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:36:02.183434-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:36:31.731944-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:36:31.731944-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:36:31.733952-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:36:31.733952-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:37:10.190384-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:37:10.190384-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:37:10.214050-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:37:10.214050-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:39:01.229481-05:00 kali CRON[144585]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:39:01.280976-05:00 kali CRON[144585]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:39:59.099750-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:39:59.099750-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:39:59.959654-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:39:59.959654-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:39:59.964512-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:39:59.964512-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:15.793012-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:15.793012-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:21.603055-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:21.603055-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:21.604743-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:21.604743-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:28.611946-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:28.611946-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:47.917122-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:47.917122-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:47.920135-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:47.920135-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:51.039152-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:51.039152-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:57.542711-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:57.542711-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:41:57.543883-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:41:57.543883-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:42:30.864132-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:42:30.864132-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:42:32.700200-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:42:32.700200-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:42:32.700821-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:42:32.700821-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:42:57.451604-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:42:57.451604-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:42:58.392590-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:42:58.392590-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:42:58.393066-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:42:58.393066-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:43:03.131391-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:43:03.131391-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:45:01.483112-05:00 kali CRON[147576]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:45:01.524672-05:00 kali CRON[147576]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:46:15.260602-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:46:15.260602-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:46:15.262472-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:46:15.262472-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:46:21.398626-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:46:21.398626-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:49:39.073144-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:49:39.073144-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:49:39.078723-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:49:39.078723-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T11:50:22.055478-05:00 kali unix_chkpwd[150013]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T11:50:22.055478-05:00 kali unix_chkpwd[150013]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:50:22.055478-05:00 kali unix_chkpwd[150013]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T11:50:22.057017-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:50:22.057017-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T11:50:22.057661-05:00 kali su: pam_winbind(su:auth): getting password (0x00000388)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T11:50:22.058192-05:00 kali su: pam_winbind(su:auth): pam_get_item returned a password
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,"2026-01-31T11:50:22.058257-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T11:50:22.058257-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T11:50:22.058477-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,"2026-01-31T11:50:22.058477-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:50:24.018676-05:00 kali su[150003]: FAILED SU (to root) drk on pts/5
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:55:22.211187-05:00 kali CRON[151703]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:55:22.211699-05:00 kali CRON[151703]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T11:57:42.234909-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:58:33.212524-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:58:33.212524-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:59:07.032921-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:59:07.032921-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:59:07.033681-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:59:07.033681-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:59:07.064841-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:59:07.064841-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:59:32.236167-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:59:32.236167-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T11:59:32.239363-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T11:59:32.239363-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:00:37.811057-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:00:37.811057-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:00:41.059668-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:00:41.059668-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:00:41.061317-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:00:41.061317-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:01:26.962543-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:01:26.962543-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:01:35.992091-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:01:35.992091-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:01:35.992332-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:01:35.992332-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T12:01:49.137959-05:00 kali unix_chkpwd[154785]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:01:49.137959-05:00 kali unix_chkpwd[154785]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:01:49.137959-05:00 kali unix_chkpwd[154785]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T12:01:49.161966-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:01:49.161966-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:01:49.162661-05:00 kali su: pam_winbind(su:auth): getting password (0x00000388)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:01:49.162792-05:00 kali su: pam_winbind(su:auth): pam_get_item returned a password
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,"2026-01-31T12:01:49.162903-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:01:49.162903-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:01:49.162964-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,"2026-01-31T12:01:49.162964-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:01:51.095886-05:00 kali su[154783]: FAILED SU (to root) drk on pts/5
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:05:01.115900-05:00 kali CRON[156326]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:05:01.146458-05:00 kali CRON[156326]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:05:01.442783-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:05:01.442783-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:07:31.049526-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:07:31.049526-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:07:31.072965-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:07:31.072965-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:07:31.638975-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:07:31.638975-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:08:35.601954-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:08:35.601954-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:08:35.602446-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:08:35.602446-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:08:36.230307-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:08:36.230307-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:08:50.031691-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:08:50.031691-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:08:50.032670-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:08:50.032670-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:08:50.511085-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:08:50.511085-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:09:01.180267-05:00 kali CRON[158277]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:09:01.219109-05:00 kali CRON[158277]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:10:31.560234-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:10:31.560234-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:10:31.582135-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:10:31.582135-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:15:01.917321-05:00 kali CRON[160722]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:15:01.936891-05:00 kali CRON[160722]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:17:01.967814-05:00 kali CRON[161683]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:17:02.014193-05:00 kali CRON[161683]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T12:22:07.672625-05:00 kali xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:22:31.925605-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:22:31.925605-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:22:31.927283-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:22:31.927283-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T12:22:47.827987-05:00 kali unix_chkpwd[162305]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:22:47.827987-05:00 kali unix_chkpwd[162305]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:22:47.827987-05:00 kali unix_chkpwd[162305]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T12:22:47.829988-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:22:47.829988-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:22:47.830472-05:00 kali su: pam_winbind(su:auth): getting password (0x00000388)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:22:47.830737-05:00 kali su: pam_winbind(su:auth): pam_get_item returned a password
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,"2026-01-31T12:22:47.830906-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:22:47.830906-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:22:47.831019-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,"2026-01-31T12:22:47.831019-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:22:49.274576-05:00 kali su[162295]: FAILED SU (to root) drk on pts/5
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T12:23:06.621647-05:00 kali unix_chkpwd[162469]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:23:06.621647-05:00 kali unix_chkpwd[162469]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:23:06.621647-05:00 kali unix_chkpwd[162469]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T12:23:06.623391-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:23:06.623391-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:23:06.624102-05:00 kali su: pam_winbind(su:auth): getting password (0x00000388)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:23:06.624356-05:00 kali su: pam_winbind(su:auth): pam_get_item returned a password
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,"2026-01-31T12:23:06.624499-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:23:06.624499-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:23:06.624661-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,"2026-01-31T12:23:06.624661-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:23:08.830965-05:00 kali su[162459]: FAILED SU (to root) drk on pts/5
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:23:33.241427-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:23:33.241427-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:23:33.952508-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:23:33.952508-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:23:33.954042-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:23:33.954042-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:25:01.123042-05:00 kali CRON[163389]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:25:01.160892-05:00 kali CRON[163389]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:26:10.203407-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:26:10.203407-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:26:10.204535-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:26:10.204535-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:29:11.212544-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:29:11.212544-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:29:11.218612-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:29:11.218612-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:33:14.083443-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:33:14.083443-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:33:14.085670-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:33:14.085670-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:33:32.785238-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:33:32.785238-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:33:33.756983-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:33:33.756983-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:33:33.758080-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:33:33.758080-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:34:02.198377-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:34:02.198377-05:00 kali sudo:      drk : TTY=pts/0 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=./sanal_ortam/bin/python main.py
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:34:02.200457-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:34:02.200457-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:34:33.299423-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:34:33.299423-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:01.179762-05:00 kali CRON[166949]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:01.188302-05:00 kali CRON[166949]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:33.688176-05:00 kali sudo:      drk : TTY=pts/10 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=/usr/bin/su
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:33.688176-05:00 kali sudo:      drk : TTY=pts/10 ; PWD=/home/drk/Desktop/log2 ; USER=root ; COMMAND=/usr/bin/su
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:33.688462-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:33.688462-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=1000)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:33.696121-05:00 kali su[167244]: (to root) root on pts/11
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:33.697590-05:00 kali su[167244]: pam_unix(su:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:52.664990-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:52.664990-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:52.665263-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:52.665263-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:55.074267-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:55.074267-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:59.138271-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:59.138271-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:35:59.138909-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:35:59.138909-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:07.566388-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:07.566388-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:29.481110-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:29.481110-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:29.482711-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:29.482711-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:35.568253-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:35.568253-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:38.102588-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:38.102588-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:38.102756-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:38.102756-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:38.944128-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:38.944128-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:40.816561-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:40.816561-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:36:40.816856-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:36:40.816856-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:37:08.244289-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:37:08.244289-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:39:01.212679-05:00 kali CRON[169336]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:39:01.238553-05:00 kali CRON[169336]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:45:01.634388-05:00 kali CRON[171585]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:45:01.639241-05:00 kali CRON[171585]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:50:25.592551-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:50:25.592551-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:50:25.598782-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:50:25.598782-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:42.991061-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:42.991061-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:45.344715-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:45.344715-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:45.346604-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:45.346604-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:47.407331-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:47.407331-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:58.195937-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:58.195937-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:58.196028-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:58.196028-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:51:58.916770-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:51:58.916770-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:52:05.371380-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:52:05.371380-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:52:05.371868-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:52:05.371868-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:52:38.919385-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:52:38.919385-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:52:44.336075-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:52:44.336075-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:52:44.336640-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:52:44.336640-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:52:45.037846-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:52:45.037846-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:08.898194-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:08.898194-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:08.898364-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:08.898364-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:13.517121-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:13.517121-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:53.518540-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:53.518540-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:53.519916-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:53.519916-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:54.896798-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:54.896798-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:56.267865-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:56.267865-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:53:56.268117-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:53:56.268117-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:54:02.050333-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:54:02.050333-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:54:06.107760-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:54:06.107760-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:54:06.108055-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:54:06.108055-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:54:06.780103-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:54:06.780103-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:54:10.973566-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:54:10.973566-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:54:10.974732-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:54:10.974732-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:55:01.672476-05:00 kali CRON[177251]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:55:01.679986-05:00 kali CRON[177251]: pam_unix(cron:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:00.032939-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:00.032939-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:09.787000-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:09.787000-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:09.787212-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:09.787212-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:51.226159-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:51.226159-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:54.535320-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:54.535320-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker build -t samet_duruk_log_projesi .
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:54.536491-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:54.536491-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:57:58.450141-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:57:58.450141-05:00 kali sudo: pam_unix(sudo:session): session closed for user root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:58:06.154616-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:58:06.154616-05:00 kali sudo:     root : TTY=pts/11 ; PWD=/home/drk/Desktop/samet_duruk_log_projesi ; USER=root ; COMMAND=/usr/bin/docker run -it -v /var/log:/var/log -v /home/drk/Desktop/samet_duruk_log_projesi:/app samet_duruk_log_projesi
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:58:06.154830-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,sudo,2026-01-31T12:58:06.154830-05:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by drk(uid=0)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,2026-01-31T12:58:45.320130-05:00 kali unix_chkpwd[179032]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:58:45.320130-05:00 kali unix_chkpwd[179032]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:58:45.320130-05:00 kali unix_chkpwd[179032]: password check failed for user (root)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failure,2026-01-31T12:58:45.320804-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:58:45.320804-05:00 kali su: pam_unix(su:auth): authentication failure; logname=drk uid=1000 euid=0 tty=/dev/pts/5 ruser=drk rhost=  user=root
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:58:45.332554-05:00 kali su: pam_winbind(su:auth): getting password (0x00000388)
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,password,2026-01-31T12:58:45.332744-05:00 kali su: pam_winbind(su:auth): pam_get_item returned a password
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,failed,"2026-01-31T12:58:45.332808-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:58:45.332808-05:00 kali su: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_WINBIND_NOT_AVAILABLE, PAM error: PAM_AUTHINFO_UNAVAIL (9)!"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,error,"2026-01-31T12:58:45.332836-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,"2026-01-31T12:58:45.332836-05:00 kali su: pam_winbind(su:auth): internal module error (retval = PAM_AUTHINFO_UNAVAIL(9), user = 'root')"
+Sat Jan 31 17:59:25 2026,/var/log/auth.log,root,2026-01-31T12:58:46.773531-05:00 kali su[179022]: FAILED SU (to root) drk on pts/5
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155793-05:00 kali kernel: 09:12:18.504153 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155794-05:00 kali kernel: 09:12:18.529808 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155794-05:00 kali kernel: 09:12:18.740126 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155859-05:00 kali kernel: 09:31:33.029745 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155860-05:00 kali kernel: 09:31:33.057652 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155860-05:00 kali kernel: 09:31:33.253779 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155861-05:00 kali kernel: 09:33:39.599498 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155861-05:00 kali kernel: 09:33:39.621736 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:21:14.155862-05:00 kali kernel: 09:33:39.826722 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.156635-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.156779-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.156798-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.156839-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.156999-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.157183-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.157267-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:21:14.157411-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:23:26.083891-05:00 kali dockerd[8221]: time=""2026-01-31T05:23:26.083632838-05:00"" level=warning msg=""failed to close stdin: NotFound: task 5c1e124d2c8d5379f152bd9eb497cf9ebef83d31044b9700c1fb794fd20de930 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:23:49.724235-05:00 kali dockerd[8221]: time=""2026-01-31T05:23:49.724165426-05:00"" level=warning msg=""failed to close stdin: NotFound: task f1f3e2211f0252ad2fa6aade16d509056aabfcc31de7364d78c438d2b94a6fd8 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:25:04.111489-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:25:04.111591-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T05:25:04.195085-05:00 kali CRON[45263]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:31:12.122289-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:31:12.122435-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:32:17.268947-05:00 kali dockerd[8221]: time=""2026-01-31T05:32:17.268842312-05:00"" level=warning msg=""failed to close stdin: NotFound: task 087cb011e21c3af0f75141370269adab764f48c7c9f6e51a1c125e83056223d0 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T05:35:01.173591-05:00 kali CRON[49999]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:37:11.399126-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:37:11.399234-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:39:19.465693-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:39:19.466031-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T05:39:19.646874-05:00 kali CRON[50544]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:42:11.633277-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:42:11.633529-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:42:40.303699-05:00 kali kernel: 10:42:40.262966 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:42:40.504722-05:00 kali kernel: 10:42:40.300641 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T05:45:01.684719-05:00 kali CRON[52382]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:45:59.490297-05:00 kali dockerd[8221]: time=""2026-01-31T05:45:59.490038088-05:00"" level=warning msg=""failed to close stdin: NotFound: task c5d9cf35c4c3b2e735ab6a671af47100a640c30894b7c7fa36a47a62e43ec274 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:45:59.507575-05:00 kali kernel: 10:42:40.501486 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:46:53.049859-05:00 kali dockerd[8221]: time=""2026-01-31T05:46:53.049723515-05:00"" level=warning msg=""failed to close stdin: NotFound: task c2e08ebfa2883c7cba2c92b856299474d2bda4f33b8fffc388d8be37d5a03d00 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:49:01.723428-05:00 kali dockerd[8221]: time=""2026-01-31T05:49:01.723212903-05:00"" level=warning msg=""failed to close stdin: NotFound: task 460dfad8ec43e15e731040a28af99ae5086279e9a4973cfb8b8f1ab64c0f0baf not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:49:25.908103-05:00 kali dockerd[8221]: time=""2026-01-31T05:49:25.907812524-05:00"" level=warning msg=""failed to close stdin: NotFound: task fd29892fdebd59cdd19dea245123d1663f41e83b1185f92f06a0ee27e68bb080 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T05:51:37.807689-05:00 kali dockerd[8221]: time=""2026-01-31T05:51:37.807255752-05:00"" level=warning msg=""failed to close stdin: NotFound: task 7f65b218e4cba9db2c906f13aa934e4fd687058e533e0cb65dbe70b1e4935a28 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:53:36.903129-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T05:53:36.903824-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T05:55:01.869788-05:00 kali CRON[57686]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:05:01.990346-05:00 kali CRON[63060]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:09:02.005646-05:00 kali CRON[65211]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:15:01.038429-05:00 kali CRON[68215]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:17:01.061854-05:00 kali CRON[69219]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:25:01.294135-05:00 kali CRON[73278]: (root) CMD (test -x /usr/sbin/anacron || { cd / && run-parts --report /etc/cron.daily; })
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:25:01.294519-05:00 kali CRON[73279]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T06:37:30.285715-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T06:37:30.286075-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:37:30.329692-05:00 kali CRON[77631]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:39:01.457837-05:00 kali CRON[78464]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T06:45:01.532647-05:00 kali CRON[81430]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T08:35:39.547831-05:00 kali kernel: 13:35:39.536543 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T08:35:39.744840-05:00 kali kernel: 13:35:39.544027 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T08:35:56.964738-05:00 kali CRON[82010]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T08:39:01.065937-05:00 kali CRON[83526]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T08:45:01.115297-05:00 kali CRON[86533]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T08:54:21.548862-05:00 kali kernel: 13:35:39.741921 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T08:54:21.779975-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T08:54:21.780169-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T08:55:01.684539-05:00 kali CRON[90832]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T08:57:33.754602-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T08:57:33.754902-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:02:32.707057-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:02:32.707687-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:05:01.671134-05:00 kali CRON[94303]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:09:01.858176-05:00 kali CRON[96266]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:12:38.880678-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:12:38.881019-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:14:54.678122-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:14:54.678166-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T09:14:55.387482-05:00 kali kernel: 14:14:55.380315 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T09:14:55.595738-05:00 kali kernel: 14:14:55.383954 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:15:01.662801-05:00 kali CRON[97692]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:17:01.688659-05:00 kali CRON[98691]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:25:01.741049-05:00 kali CRON[102853]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T09:30:50.180160-05:00 kali kernel: 14:14:55.593412 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:30:50.235026-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:30:50.235285-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:37:45.996310-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:37:45.996395-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:37:45.996585-05:00 kali CRON[107260]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:39:01.433320-05:00 kali CRON[107951]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:47:51.465245-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T09:47:51.467015-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T09:47:51.467186-05:00 kali CRON[109310]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:18:25.145151-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:18:25.145214-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T10:18:25.146001-05:00 kali CRON[112446]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T10:18:25.146136-05:00 kali CRON[112469]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T10:18:25.845587-05:00 kali kernel: 15:18:25.826263 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T10:18:26.065623-05:00 kali kernel: 15:18:25.841952 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T10:21:03.466980-05:00 kali kernel: 15:18:26.063958 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:21:03.592432-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:21:03.592637-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:33:37.787374-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:33:37.788159-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T10:35:01.370169-05:00 kali CRON[115945]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T10:39:01.459100-05:00 kali CRON[117771]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T10:45:01.541193-05:00 kali CRON[120744]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T10:55:01.670338-05:00 kali CRON[125605]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:57:53.390521-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T10:57:53.390569-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T10:57:53.949650-05:00 kali kernel: 15:57:53.938899 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T10:57:54.234735-05:00 kali kernel: 15:57:53.947594 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:08:49.281548-05:00 kali kernel: 15:57:54.171705 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T11:08:49.568162-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T11:08:49.570073-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:08:49.570406-05:00 kali CRON[130003]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:09:01.465068-05:00 kali CRON[130150]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T11:10:43.851931-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T11:10:43.852226-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:10:44.241781-05:00 kali kernel: 16:10:44.222373 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:10:44.445849-05:00 kali kernel: 16:10:44.239171 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:15:01.677038-05:00 kali CRON[132850]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:16:06.738288-05:00 kali kernel: 16:10:44.443006 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:16:06.755190-05:00 kali kernel: 16:16:06.736467 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:16:06.969833-05:00 kali kernel: 16:16:06.753245 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:17:01.726070-05:00 kali CRON[133852]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:19:57.559671-05:00 kali kernel: 16:16:06.967570 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:25:02.011214-05:00 kali CRON[137776]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:35:01.196230-05:00 kali CRON[142648]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:39:01.279649-05:00 kali CRON[144587]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:45:01.516513-05:00 kali CRON[147578]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T11:55:22.210760-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T11:55:22.210922-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T11:55:22.211502-05:00 kali CRON[151713]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:57:40.422027-05:00 kali kernel: 16:57:40.413525 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:57:40.617660-05:00 kali kernel: 16:57:40.417789 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T11:58:32.669902-05:00 kali kernel: 16:57:40.615767 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:05:01.126151-05:00 kali CRON[156328]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:09:01.217561-05:00 kali CRON[158279]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:10:22.803187-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:10:22.816599-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:15:01.919245-05:00 kali CRON[160724]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:17:02.001748-05:00 kali CRON[161685]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:22:04.532820-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:22:04.534005-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:22:06.193734-05:00 kali kernel: 17:22:06.184442 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:22:06.391575-05:00 kali kernel: 17:22:06.190823 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:22:10.441605-05:00 kali kernel: 17:22:06.387980 SHCLX11   Shared Clipboard: Converting X11 format 'UTF8_STRING' (idxFmtX11=1) to VBox format 0x1 failed, rc=VER"
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:25:01.126903-05:00 kali CRON[163391]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:28:55.578385-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:28:55.578573-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:32:40.221169-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:32:40.221396-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:35:01.181181-05:00 kali CRON[166956]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:36:07.444374-05:00 kali dockerd[8221]: time=""2026-01-31T12:36:07.444300716-05:00"" level=warning msg=""failed to close stdin: NotFound: task ae9eff4528e79210bd2fc07ad056bb1efad7b3c6cbe538ad499db4edb656390c not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:37:08.136364-05:00 kali dockerd[8221]: time=""2026-01-31T12:37:08.135996744-05:00"" level=warning msg=""failed to close stdin: NotFound: task dc769c588ebcf83614b115fc582d08e2e0a37dcfaf87d3db620ca47e346cba57 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:39:01.236758-05:00 kali CRON[169338]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:41:55.692520-05:00 kali rsyslogd: get tty for session '2' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,2026-01-31T12:41:55.693176-05:00 kali rsyslogd: get tty for session '3' failed with [61]:No data available  [v8.2512.0]
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:45:01.634780-05:00 kali CRON[171587]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:51:42.854354-05:00 kali dockerd[8221]: time=""2026-01-31T12:51:42.854281607-05:00"" level=warning msg=""failed to close stdin: NotFound: task 48f0711f5c8165fc75871b69f32c23083c14aea7e77333eadad9b09fcaffb617 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:52:38.811721-05:00 kali dockerd[8221]: time=""2026-01-31T12:52:38.811643247-05:00"" level=warning msg=""failed to close stdin: NotFound: task 6ac5c7abcae1edd83eb1454881122562431bb77535fd9399743af6045d31d57f not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:53:13.376174-05:00 kali dockerd[8221]: time=""2026-01-31T12:53:13.375759553-05:00"" level=warning msg=""failed to close stdin: NotFound: task 79a5c61fa45ddbbea3f1705b102606fa9f7ec3062b7528dcf9990a1b2cf4b068 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:54:01.912640-05:00 kali dockerd[8221]: time=""2026-01-31T12:54:01.912568827-05:00"" level=warning msg=""failed to close stdin: NotFound: task 0e0b2822bd3a3e9f342e148df97d751a5d3cf8a68772bc5fc795b8743ddee791 not found: not found"""
+Sat Jan 31 17:59:25 2026,/var/log/syslog,root,2026-01-31T12:55:01.672929-05:00 kali CRON[177253]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Sat Jan 31 17:59:25 2026,/var/log/syslog,failed,"2026-01-31T12:56:59.908422-05:00 kali dockerd[8221]: time=""2026-01-31T12:56:59.907396080-05:00"" level=warning msg=""failed to close stdin: NotFound: task cbc37f747a1b3ba8f75550aaa5d56773c37b96e4a44c10dc139da6c82d0ae337 not found: not found"""
