@@ -1,0 +1,19 @@
+{
+    "log_files": [
+        "/var/log/auth.log",
+        "/var/log/syslog",
+        "nginx/access.log",
+        "ufw.log"
+    ],
+    "keywords": [
+        "failed",
+        "error",
+        "failure",
+        "incorrect",
+        "password",
+        "denied",
+        "root",
+        "sudo",
+        "panic"
+    ]
+}
